@@ -3,6 +3,8 @@
  * @author Colin Burn-Murdoch <colin@burn-murdoch.com>
  *
  **/
+namespace colinmb;
+
 class SagePayAdminApi {
 
 	private $vendor;
