@@ -9,6 +9,11 @@
 	    "name": "Colin Burn-Murdoch",
 	    "email": "info@logicnow.com"
 	}
-    ]
+    ],
+    "autoload": {
+      "psr-0": {
+        "colinbm\\": "src/"
+      }
+    }
 }
 
